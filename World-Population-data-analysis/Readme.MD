@@ -8,4 +8,4 @@ The data used to analyse population was collected from https://worldpopulationre
 3. Microsoft Power Bi
 4. Dashboard Optimization
 
-![alt text]
+![alt text](https://github.com/athtowfiq/DataAnalysis/blob/main/World-Population-data-analysis/world_population_dashboard.png)
