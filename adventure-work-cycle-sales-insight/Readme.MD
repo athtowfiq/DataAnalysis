@@ -9,4 +9,4 @@ did some data cleaning using Power Bi and made a simple dashboard to show revenu
 3. Microsoft Power Bi
 4. Dashboard Optimization
 
-![alt text]()
+![alt text](https://github.com/athtowfiq/DataAnalysis/blob/main/adventure-work-cycle-sales-insight/adventure_work_cycle_sales_insight.png)
